@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css?family=Heebo:300&display=swap");
+
+* {
+}
+
+:root {
+}
+
+html {
+}
+
+html.dark {
+}
+
+html.dark {
+}
+
+body {
+  font-family: "Heebo", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.toggle:focus {
+}
+
+.clock-container {
+}
+
+.clock {
+}
+
+.needle {
+}
+
+.needle.hour {
+}
+
+.needle.hour {
+}
+
+.needle.minute {
+}
+
+.needle.second {
+}
+
+.center-point {
+}
+
+.center-point::after {
+}
+
+.time {
+}
+
+.date {
+}
+
+.date .circle {
+}
