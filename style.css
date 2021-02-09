@@ -117,12 +117,12 @@ body {
 
 .time {
   /* padding-top: 50px; */
-  font-size: 70px;
+  font-size: 60px;
 }
 
 .date {
   color: #aaa;
-  font-size: 30px;
+  font-size: 25px;
   letter-spacing: 0.3px;
   text-transform: uppercase;
   padding-bottom: 30px;
@@ -137,9 +137,9 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  line-height: 30px;
+  line-height: 25px;
   transition: all 0.5s ease-in;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 .quote {
