@@ -26,6 +26,7 @@
 - [Installation](#installation) 
 - [Live Site](#live-site)
 - [Resources](#resources)
+- [Copyright](#copyright)
 - [Let's Connect!](#lets-connect) 
 
 #
@@ -34,7 +35,12 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-<a href=#100days>![Under Construction](Assets/lorem-text.png)</a>
+### Day 8: February 11, 2021
+- I love analog clocks, and I looked up tutorials on how to make clocks with JavaScript, HTML, and CSS.
+
+- This clock has a light and dark mode. See <a href="https://github.com/emjose/analog-clock-1/#header">first clock project</a>.
+
+- The quote <a href="https://youtu.be/nij1M8Brd00?t=430">"Every passing minute is another chance to turn it all around"</a> is from the film <a href="https://youtu.be/nij1M8Brd00?t=430">Vanilla Sky</a>.
 
 #
 
@@ -57,7 +63,7 @@ open index.html
 
 <a href="https://emjose.github.io/analog-clock-2/">![Live Site](Assets/inter-live-site.png)</a>  
 
-<a href="https://emjose.github.io/analog-clock-2/">![Under Construction](Assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/analog-clock-2/">![Live Site](Assets/008-clock-2.gif)</a>
 
 #
 
@@ -65,7 +71,27 @@ open index.html
 
 <a href=#resources>![Resources](Assets/inter-resources.png)</a>  
 
-<a href=#resources>![Under Construction](Assets/lorem-text.png)</a>
+- #### [50 Projects in 50 Days](https://50projects50days.com/)
+
+- #### [Neumorphism Generator](https://neumorphism.io/) by [Adam Giebl](https://github.com/adamgiebl)
+
+- #### [Neumorphism Analog Clock Tutorial](https://youtu.be/NVoIEEb0Hqg) by [CodingNepal](https://www.youtube.com/channel/UCk7xIEmd3MeyhIu2StLX5yA)
+
+- #### [Neumorphism the Right Way — A 2020 Design Trend](https://medium.com/@artofofiare/neumorphism-the-right-way-a-2020-design-trend-386e6a09040a#:~:text=Neumorphism%20(or%20Neo%2Dskeuomorphism),let's%20look%20at%20%E2%80%9CSkeuomorphism%E2%80%9D.)
+
+- #### [Theme Clock Tutorial from the 50 Projects in 50 Days Udemy Course](https://www.udemy.com/course/50-projects-50-days/)
+
+- #### Vanilla Sky clip: ["Every passing minute is another chance to turn it all around."](https://youtu.be/nij1M8Brd00?t=430)
+
+#
+
+<p id="copyright"><p>
+
+<a href=#copyright>![Copyright](Assets/inter-copyright.png)</a>
+
+- This project is for made for educational purposes only. 
+  
+- <a href="https://www.paramount.com/movies/vanilla-sky">Vanilla Sky</a> is copyright of <a href="https://innersloth.com/">Paramount Pictures</a>. © Paramount Pictures. All Rights Reserved.
 
 #
 
