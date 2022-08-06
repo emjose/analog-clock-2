@@ -51,13 +51,13 @@
 
 #### Git clone and cd into the repo folder:
 
-```
+```console
 git clone git@github.com:emjose/analog-clock-2.git && cd analog-clock-2
 ```
 
 #### Run the command:
 
-```
+```console
 open index.html
 ```
 
@@ -96,6 +96,7 @@ open index.html
 <a href=#copyright>![Copyright](https://res.cloudinary.com/dn1e07eul/image/upload/v1659391383/Readme%20Headers/inter-copyright_ax53yz.png)</a>
 
 -   This project is for made for educational purposes only.
+
 -   <a href="https://www.paramount.com/movies/vanilla-sky">Vanilla Sky</a> is copyright of <a href="https://innersloth.com/">Paramount Pictures</a>. © Paramount Pictures. All Rights Reserved.
 
 #
