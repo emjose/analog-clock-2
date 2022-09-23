@@ -29,6 +29,8 @@
 -   [Copyright](#copyright)
 -   [Let's Connect!](#lets-connect)
 
+<br>
+
 #
 
 <p id="100days"><p>
@@ -42,6 +44,8 @@
 -   This clock has a light and dark mode. See <a href="https://github.com/emjose/analog-clock-1/#header">first clock project</a>.
 
 -   The quote <a href="https://youtu.be/nij1M8Brd00?t=430">"Every passing minute is another chance to turn it all around"</a> is from the film <a href="https://youtu.be/nij1M8Brd00?t=430">Vanilla Sky</a>.
+
+<br>
 
 #
 
@@ -61,6 +65,8 @@ git clone git@github.com:emjose/analog-clock-2.git && cd analog-clock-2
 open index.html
 ```
 
+<br>
+
 #
 
 <p id="live-site"><p>
@@ -68,6 +74,14 @@ open index.html
 <a href="https://emjose.github.io/analog-clock-2/">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
 <a href="https://emjose.github.io/analog-clock-2/">![Live Site](Assets/008-clock-2.gif)</a>
+
+• **[Analog Clock 2](https://emjose.github.io/analog-clock-2/)** is responsive and keyboard-navigable.
+
+• **[Analog Clock 2](https://emjose.github.io/analog-clock-2/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+
+• Users can toggle between light and dark mode, and mode preference will persist in local storage.
+
+<br>
 
 #
 
@@ -87,7 +101,11 @@ open index.html
 
 -   #### Vanilla Sky clip: ["Every passing minute is another chance to turn it all around."](https://youtu.be/nij1M8Brd00?t=430)
 
+-   #### [The simplest CSS variable dark mode theme](https://lukelowrey.com/css-variable-theme-switcher/)
+
 -   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
+
+<br>
 
 #
 
@@ -98,6 +116,8 @@ open index.html
 -   This project is for made for educational purposes only.
 
 -   <a href="https://www.paramount.com/movies/vanilla-sky">Vanilla Sky</a> is copyright of <a href="https://innersloth.com/">Paramount Pictures</a>. © Paramount Pictures. All Rights Reserved.
+
+<br>
 
 #
 
